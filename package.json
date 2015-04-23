@@ -1,0 +1,12 @@
+{
+  "name": "pinf-to-google-chrome-profile",
+  "version": "0.1.0",
+  "dependencies": {
+    "to.pinf.lib": "0.1.x"
+  },
+  "config": {
+    "pio.deploy.converter": {
+      "name": "nodejs-lib"
+    }
+  }
+}
